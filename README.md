@@ -16,10 +16,11 @@ Responsive Design: Works on desktop and mobile devices
 
 # Technologies Used
 
-HTML5
+- HTML5
 
-CSS3 (with Flexbox and gradients)
+- CSS3 (with Flexbox and gradients)
 
-Vanilla JavaScript (ES6+)
+- Vanilla JavaScript (ES6+)
 
-OpenWeatherMap API
+- OpenWeatherMap API
+
